@@ -32,11 +32,11 @@ Even in electric wheelchair which can be controlled with switches and joystick, 
 
 
 
-8. Tech Stack used - Software : 1. Arduino  
-                                2. CAD Software : CATIA  
-                                3. Hardware : Microcontroller (Arduino Nano and Arduino Uno)
-                                4. Radio - Communication Module
-                                5. Accelerometer and Gyroscopic Sensor
+8. Tech Stack used - Software : 1. Arduino,  
+                                2. CAD Software : CATIA , 
+                                3. Hardware : Microcontroller (Arduino Nano and Arduino Uno),
+                                4. Radio - Communication Module,
+                                5. Accelerometer and Gyroscopic Sensor,
                                 6. Servo Motor 
 
 
@@ -52,10 +52,10 @@ Even in electric wheelchair which can be controlled with switches and joystick, 
      
      2 .  FOR THE TRANSMITTER PART:
           
-          1. THE CIRCUIT DIAGRAM IS UPLOADED IN THE FORM OF AN IMAGE FILE NAME IS "CIRCUIT DIAGRAM FOR TRANSMITTER AND RECEIVER" , IN THE CIRCUIT DIAGRAM THE NAMES OF THE                  TECH USED ARE ALSO NAMED.
-          2. AFTER MAKING THE REQUIRED CIRCUIT THE FILE CODE NAMED AS "head_gesture_controlled_steering_transmitter" NEEDS TO BE UPLOADED IN THE ARDUINO OF THE TRANSMITTER.
+          1. THE CIRCUIT DIAGRAM IS UPLOADED IN THE FORM OF AN IMAGE ,FILE NAME IS "CIRCUIT DIAGRAM FOR TRANSMITTER AND RECEIVER" , IN THE CIRCUIT DIAGRAM THE NAMES OF THE TECH USED ARE ALSO MENTIONED.
+          2. AFTER MAKING THE REQUIRED CIRCUIT THE CODE FILE NAMED AS "head_gesture_controlled_steering_transmitter" NEEDS TO BE UPLOADED IN THE ARDUINO OF THE TRANSMITTER.
 
      3 . FOR THE RECEIVER PART:
           
-          1. THE CIRCUIT DIAGRAM IS UPLOADED IN THE FORM OF AN IMAGE FILE NAME IS "CIRCUIT DIAGRAM FOR TRANSMITTER AND RECEIVER", IN THE CIRCUIT DIAGRAM THE NAMES OF THE TECH              USED ARE ALSO NAMED.
+          1. THE CIRCUIT DIAGRAM IS UPLOADED IN THE FORM OF AN IMAGE ,FILE NAME IS "CIRCUIT DIAGRAM FOR TRANSMITTER AND RECEIVER", IN THE CIRCUIT DIAGRAM THE NAMES OF THE TECH USED ARE ALSO NAMED.
           2. AFTER MAKING THE REQUIRED CIRCUIT THE FILE CODE NAMED AS "head_gesture_controlled_steering_receiver" NEEDS TO BE UPLOADED IN THE ARDUINO OF THE RECEIVER.
