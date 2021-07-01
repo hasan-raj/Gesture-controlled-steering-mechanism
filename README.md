@@ -61,4 +61,4 @@ Even in electric wheelchair which can be controlled with switches and joystick, 
           2. AFTER MAKING THE REQUIRED CIRCUIT THE FILE CODE NAMED AS "head_gesture_controlled_steering_receiver" NEEDS TO BE UPLOADED IN THE ARDUINO OF THE RECEIVER.
 
 
-     4. GOOD TO GO.
+     4 . GOOD TO GO.
